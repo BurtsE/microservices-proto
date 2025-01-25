@@ -1,0 +1,1 @@
+[![Protocol Buffer Go Stubs Generation](https://github.com/BurtsE/microservices-proto/actions/workflows/protoc.yaml/badge.svg)](https://github.com/BurtsE/microservices-proto/actions/workflows/protoc.yaml)
